@@ -8,6 +8,6 @@ public class TestMain {
         System.out.println("第四次");
         System.out.println("master分支");
         System.out.println("hot-fix分支");
-        System.out.println("pull")
+        System.out.println("pull");
     }
 }
